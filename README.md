@@ -12,7 +12,7 @@ analyze academic performance patterns.
 ## 📁 Repository Structure
 student-dropout-eda/ 
 
-│── notebooks/ – Jupyter Notebook  
+│── Jupyter Notebook  
 │── README.md  
 
 ---
