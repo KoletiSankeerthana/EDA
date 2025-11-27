@@ -10,11 +10,8 @@ analyze academic performance patterns.
 ---
 
 ## 📁 Repository Structure
-student-dropout-eda/
-│── data/ – Raw dataset  
+student-dropout-eda/ 
 │── notebooks/ – Jupyter Notebook  
-│── plots/ – Saved plots  
-│── requirements.txt – Python dependencies  
 │── README.md  
 
 ---
